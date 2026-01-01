@@ -1,0 +1,301 @@
+customer_id,signup_date,customer_segment,acquisition_channel,region,company_size,industry,account_manager_id
+1,2023-01-15,Enterprise,"Direct Sales","North America",1000+,Technology,101
+2,2023-01-22,Enterprise,"Direct Sales","North America",1000+,Finance,101
+3,2023-02-05,Enterprise,Partner,Europe,1000+,Healthcare,102
+4,2023-02-18,Enterprise,"Direct Sales","North America",201-1000,Technology,101
+5,2023-03-10,Enterprise,"Direct Sales","Asia Pacific",1000+,Finance,103
+6,2023-03-25,Enterprise,Partner,Europe,1000+,Manufacturing,102
+7,2023-04-08,Enterprise,"Direct Sales","North America",1000+,Healthcare,101
+8,2023-04-20,Enterprise,"Direct Sales",Europe,201-1000,Technology,102
+9,2023-05-12,Enterprise,Partner,"North America",1000+,Finance,101
+10,2023-05-28,Enterprise,"Direct Sales","Asia Pacific",1000+,Retail,103
+11,2023-06-15,Enterprise,"Direct Sales","North America",201-1000,Healthcare,101
+12,2023-06-30,Enterprise,Partner,Europe,1000+,Technology,102
+13,2023-07-10,Enterprise,"Direct Sales","North America",1000+,Finance,101
+14,2023-07-25,Enterprise,"Direct Sales",Europe,1000+,Manufacturing,102
+15,2023-08-08,Enterprise,Partner,"Asia Pacific",201-1000,Technology,103
+16,2023-08-22,Enterprise,"Direct Sales","North America",1000+,Healthcare,101
+17,2023-09-05,Enterprise,"Direct Sales",Europe,1000+,Finance,102
+18,2023-09-18,Enterprise,Partner,"North America",1000+,Retail,101
+19,2023-10-10,Enterprise,"Direct Sales","Asia Pacific",201-1000,Technology,103
+20,2023-10-25,Enterprise,"Direct Sales","North America",1000+,Healthcare,101
+21,2023-11-08,Enterprise,Partner,Europe,1000+,Finance,102
+22,2023-11-22,Enterprise,"Direct Sales","North America",1000+,Manufacturing,101
+23,2023-12-05,Enterprise,"Direct Sales","Asia Pacific",201-1000,Technology,103
+24,2023-12-20,Enterprise,Partner,"North America",1000+,Healthcare,101
+25,2024-01-10,Enterprise,"Direct Sales",Europe,1000+,Finance,102
+26,2024-01-25,Enterprise,"Direct Sales","North America",1000+,Technology,101
+27,2024-02-08,Enterprise,Partner,"Asia Pacific",201-1000,Retail,103
+28,2024-02-22,Enterprise,"Direct Sales","North America",1000+,Healthcare,101
+29,2024-03-10,Enterprise,"Direct Sales",Europe,1000+,Finance,102
+30,2024-03-25,Enterprise,Partner,"North America",1000+,Manufacturing,101
+31,2024-04-08,Enterprise,"Direct Sales","Asia Pacific",1000+,Technology,103
+32,2024-04-22,Enterprise,"Direct Sales","North America",201-1000,Healthcare,101
+33,2024-05-10,Enterprise,Partner,Europe,1000+,Finance,102
+34,2024-05-25,Enterprise,"Direct Sales","North America",1000+,Technology,101
+35,2024-06-08,Enterprise,"Direct Sales","Asia Pacific",201-1000,Retail,103
+36,2024-06-22,Enterprise,Partner,"North America",1000+,Healthcare,101
+37,2024-07-10,Enterprise,"Direct Sales",Europe,1000+,Finance,102
+38,2024-07-25,Enterprise,"Direct Sales","North America",1000+,Manufacturing,101
+39,2024-08-08,Enterprise,Partner,"Asia Pacific",1000+,Technology,103
+40,2024-08-22,Enterprise,"Direct Sales","North America",201-1000,Healthcare,101
+41,2023-01-20,Enterprise,"Direct Sales",Europe,1000+,Finance,102
+42,2023-02-12,Enterprise,Partner,"North America",1000+,Technology,101
+43,2023-03-15,Enterprise,"Direct Sales","Asia Pacific",201-1000,Healthcare,103
+44,2023-04-18,Enterprise,"Direct Sales","North America",1000+,Finance,101
+45,2023-05-20,Enterprise,Partner,Europe,1000+,Manufacturing,102
+46,2023-06-22,Enterprise,"Direct Sales","North America",1000+,Technology,101
+47,2023-07-15,Enterprise,"Direct Sales","Asia Pacific",201-1000,Retail,103
+48,2023-08-18,Enterprise,Partner,"North America",1000+,Healthcare,101
+49,2023-09-20,Enterprise,"Direct Sales",Europe,1000+,Finance,102
+50,2023-10-15,Enterprise,"Direct Sales","North America",1000+,Technology,101
+51,2023-11-18,Enterprise,Partner,"Asia Pacific",201-1000,Healthcare,103
+52,2023-12-12,Enterprise,"Direct Sales","North America",1000+,Finance,101
+53,2024-01-15,Enterprise,"Direct Sales",Europe,1000+,Manufacturing,102
+54,2024-02-18,Enterprise,Partner,"North America",1000+,Technology,101
+55,2024-03-20,Enterprise,"Direct Sales","Asia Pacific",201-1000,Retail,103
+56,2024-04-15,Enterprise,"Direct Sales","North America",1000+,Healthcare,101
+57,2024-05-18,Enterprise,Partner,Europe,1000+,Finance,102
+58,2024-06-20,Enterprise,"Direct Sales","North America",1000+,Technology,101
+59,2024-07-15,Enterprise,"Direct Sales","Asia Pacific",1000+,Manufacturing,103
+60,2024-08-18,Enterprise,Partner,"North America",201-1000,Healthcare,101
+61,2023-02-28,Enterprise,"Direct Sales",Europe,1000+,Finance,102
+62,2023-03-30,Enterprise,"Direct Sales","North America",1000+,Technology,101
+63,2023-04-28,Enterprise,Partner,"Asia Pacific",201-1000,Retail,103
+64,2023-05-30,Enterprise,"Direct Sales","North America",1000+,Healthcare,101
+65,2023-06-28,Enterprise,"Direct Sales",Europe,1000+,Finance,102
+66,2023-07-30,Enterprise,Partner,"North America",1000+,Manufacturing,101
+67,2023-08-28,Enterprise,"Direct Sales","Asia Pacific",1000+,Technology,103
+68,2023-09-30,Enterprise,"Direct Sales","North America",201-1000,Healthcare,101
+69,2023-10-28,Enterprise,Partner,Europe,1000+,Finance,102
+70,2023-11-30,Enterprise,"Direct Sales","North America",1000+,Technology,101
+71,2023-12-28,Enterprise,"Direct Sales","Asia Pacific",201-1000,Retail,103
+72,2024-01-30,Enterprise,Partner,"North America",1000+,Healthcare,101
+73,2024-02-28,Enterprise,"Direct Sales",Europe,1000+,Finance,102
+74,2024-03-30,Enterprise,"Direct Sales","North America",1000+,Manufacturing,101
+75,2024-04-28,Enterprise,Partner,"Asia Pacific",1000+,Technology,103
+76,2024-05-30,Enterprise,"Direct Sales","North America",201-1000,Healthcare,101
+77,2024-06-28,Enterprise,"Direct Sales",Europe,1000+,Finance,102
+78,2024-07-30,Enterprise,Partner,"North America",1000+,Technology,101
+79,2024-08-28,Enterprise,"Direct Sales","Asia Pacific",1000+,Retail,103
+80,2024-09-15,Enterprise,"Direct Sales","North America",201-1000,Healthcare,101
+81,2023-01-10,Mid-Market,Website,"North America",201-1000,Technology,104
+82,2023-01-18,Mid-Market,Partner,Europe,51-200,Finance,105
+83,2023-02-08,Mid-Market,"Direct Sales","North America",201-1000,Healthcare,104
+84,2023-02-20,Mid-Market,Website,"Asia Pacific",51-200,Retail,106
+85,2023-03-12,Mid-Market,Referral,Europe,201-1000,Technology,105
+86,2023-03-28,Mid-Market,Partner,"North America",51-200,Manufacturing,104
+87,2023-04-10,Mid-Market,Website,Europe,201-1000,Finance,105
+88,2023-04-25,Mid-Market,"Direct Sales","North America",51-200,Healthcare,104
+89,2023-05-15,Mid-Market,Referral,"Asia Pacific",201-1000,Technology,106
+90,2023-05-30,Mid-Market,Website,Europe,51-200,Retail,105
+91,2023-06-12,Mid-Market,Partner,"North America",201-1000,Finance,104
+92,2023-06-28,Mid-Market,Website,Europe,51-200,Manufacturing,105
+93,2023-07-15,Mid-Market,Referral,"North America",201-1000,Technology,104
+94,2023-07-30,Mid-Market,"Direct Sales","Asia Pacific",51-200,Healthcare,106
+95,2023-08-10,Mid-Market,Website,Europe,201-1000,Finance,105
+96,2023-08-25,Mid-Market,Partner,"North America",51-200,Retail,104
+97,2023-09-08,Mid-Market,Website,Europe,201-1000,Technology,105
+98,2023-09-22,Mid-Market,Referral,"North America",51-200,Manufacturing,104
+99,2023-10-12,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Healthcare,106
+100,2023-10-28,Mid-Market,Website,Europe,51-200,Finance,105
+101,2023-01-04,Mid-Market,Partner,Europe,51-200,Healthcare,105
+102,2023-01-07,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Finance,106
+103,2023-01-10,Mid-Market,Referral,"Latin America",51-200,Retail,104
+104,2023-01-13,Mid-Market,Website,"North America",201-1000,Manufacturing,105
+105,2023-01-16,Mid-Market,Partner,Europe,51-200,Education,106
+106,2023-01-19,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Technology,104
+107,2023-01-22,Mid-Market,Referral,"Latin America",51-200,Healthcare,105
+108,2023-01-25,Mid-Market,Website,"North America",201-1000,Finance,106
+109,2023-01-28,Mid-Market,Partner,Europe,51-200,Retail,104
+110,2023-01-31,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Manufacturing,105
+111,2023-02-03,Mid-Market,Referral,"Latin America",51-200,Education,106
+112,2023-02-06,Mid-Market,Website,"North America",201-1000,Technology,104
+113,2023-02-09,Mid-Market,Partner,Europe,51-200,Healthcare,105
+114,2023-02-12,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Finance,106
+115,2023-02-15,Mid-Market,Referral,"Latin America",51-200,Retail,104
+116,2023-02-18,Mid-Market,Website,"North America",201-1000,Manufacturing,105
+117,2023-02-21,Mid-Market,Partner,Europe,51-200,Education,106
+118,2023-02-24,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Technology,104
+119,2023-02-27,Mid-Market,Referral,"Latin America",51-200,Healthcare,105
+120,2023-03-02,Mid-Market,Website,"North America",201-1000,Finance,106
+121,2023-03-05,Mid-Market,Partner,Europe,51-200,Retail,104
+122,2023-03-08,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Manufacturing,105
+123,2023-03-11,Mid-Market,Referral,"Latin America",51-200,Education,106
+124,2023-03-14,Mid-Market,Website,"North America",201-1000,Technology,104
+125,2023-03-17,Mid-Market,Partner,Europe,51-200,Healthcare,105
+126,2023-03-20,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Finance,106
+127,2023-03-23,Mid-Market,Referral,"Latin America",51-200,Retail,104
+128,2023-03-26,Mid-Market,Website,"North America",201-1000,Manufacturing,105
+129,2023-03-29,Mid-Market,Partner,Europe,51-200,Education,106
+130,2023-04-01,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Technology,104
+131,2023-04-04,Mid-Market,Referral,"Latin America",51-200,Healthcare,105
+132,2023-04-07,Mid-Market,Website,"North America",201-1000,Finance,106
+133,2023-04-10,Mid-Market,Partner,Europe,51-200,Retail,104
+134,2023-04-13,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Manufacturing,105
+135,2023-04-16,Mid-Market,Referral,"Latin America",51-200,Education,106
+136,2023-04-19,Mid-Market,Website,"North America",201-1000,Technology,104
+137,2023-04-22,Mid-Market,Partner,Europe,51-200,Healthcare,105
+138,2023-04-25,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Finance,106
+139,2023-04-28,Mid-Market,Referral,"Latin America",51-200,Retail,104
+140,2023-05-01,Mid-Market,Website,"North America",201-1000,Manufacturing,105
+141,2023-05-04,Mid-Market,Partner,Europe,51-200,Education,106
+142,2023-05-07,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Technology,104
+143,2023-05-10,Mid-Market,Referral,"Latin America",51-200,Healthcare,105
+144,2023-05-13,Mid-Market,Website,"North America",201-1000,Finance,106
+145,2023-05-16,Mid-Market,Partner,Europe,51-200,Retail,104
+146,2023-05-19,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Manufacturing,105
+147,2023-05-22,Mid-Market,Referral,"Latin America",51-200,Education,106
+148,2023-05-25,Mid-Market,Website,"North America",201-1000,Technology,104
+149,2023-05-28,Mid-Market,Partner,Europe,51-200,Healthcare,105
+150,2023-05-31,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Finance,106
+151,2023-06-03,Mid-Market,Referral,"Latin America",51-200,Retail,104
+152,2023-06-06,Mid-Market,Website,"North America",201-1000,Manufacturing,105
+153,2023-06-09,Mid-Market,Partner,Europe,51-200,Education,106
+154,2023-06-12,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Technology,104
+155,2023-06-15,Mid-Market,Referral,"Latin America",51-200,Healthcare,105
+156,2023-06-18,Mid-Market,Website,"North America",201-1000,Finance,106
+157,2023-06-21,Mid-Market,Partner,Europe,51-200,Retail,104
+158,2023-06-24,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Manufacturing,105
+159,2023-06-27,Mid-Market,Referral,"Latin America",51-200,Education,106
+160,2023-06-30,Mid-Market,Website,"North America",201-1000,Technology,104
+161,2023-07-03,Mid-Market,Partner,Europe,51-200,Healthcare,105
+162,2023-07-06,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Finance,106
+163,2023-07-09,Mid-Market,Referral,"Latin America",51-200,Retail,104
+164,2023-07-12,Mid-Market,Website,"North America",201-1000,Manufacturing,105
+165,2023-07-15,Mid-Market,Partner,Europe,51-200,Education,106
+166,2023-07-18,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Technology,104
+167,2023-07-21,Mid-Market,Referral,"Latin America",51-200,Healthcare,105
+168,2023-07-24,Mid-Market,Website,"North America",201-1000,Finance,106
+169,2023-07-27,Mid-Market,Partner,Europe,51-200,Retail,104
+170,2023-07-30,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Manufacturing,105
+171,2023-08-02,Mid-Market,Referral,"Latin America",51-200,Education,106
+172,2023-08-05,Mid-Market,Website,"North America",201-1000,Technology,104
+173,2023-08-08,Mid-Market,Partner,Europe,51-200,Healthcare,105
+174,2023-08-11,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Finance,106
+175,2023-08-14,Mid-Market,Referral,"Latin America",51-200,Retail,104
+176,2023-08-17,Mid-Market,Website,"North America",201-1000,Manufacturing,105
+177,2023-08-20,Mid-Market,Partner,Europe,51-200,Education,106
+178,2023-08-23,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Technology,104
+179,2023-08-26,Mid-Market,Referral,"Latin America",51-200,Healthcare,105
+180,2023-08-29,Mid-Market,Website,"North America",201-1000,Finance,106
+181,2023-09-01,Mid-Market,Partner,Europe,51-200,Retail,104
+182,2023-09-04,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Manufacturing,105
+183,2023-09-07,Mid-Market,Referral,"Latin America",51-200,Education,106
+184,2023-09-10,Mid-Market,Website,"North America",201-1000,Technology,104
+185,2023-09-13,Mid-Market,Partner,Europe,51-200,Healthcare,105
+186,2023-09-16,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Finance,106
+187,2023-09-19,Mid-Market,Referral,"Latin America",51-200,Retail,104
+188,2023-09-22,Mid-Market,Website,"North America",201-1000,Manufacturing,105
+189,2023-09-25,Mid-Market,Partner,Europe,51-200,Education,106
+190,2023-09-28,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Technology,104
+191,2023-10-01,Mid-Market,Referral,"Latin America",51-200,Healthcare,105
+192,2023-10-04,Mid-Market,Website,"North America",201-1000,Finance,106
+193,2023-10-07,Mid-Market,Partner,Europe,51-200,Retail,104
+194,2023-10-10,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Manufacturing,105
+195,2023-10-13,Mid-Market,Referral,"Latin America",51-200,Education,106
+196,2023-10-16,Mid-Market,Website,"North America",201-1000,Technology,104
+197,2023-10-19,Mid-Market,Partner,Europe,51-200,Healthcare,105
+198,2023-10-22,Mid-Market,"Direct Sales","Asia Pacific",201-1000,Finance,106
+199,2023-10-25,Mid-Market,Referral,"Latin America",51-200,Retail,104
+200,2023-10-28,Mid-Market,Website,"North America",201-1000,Manufacturing,105
+201,2023-01-03,SMB,Referral,Europe,1-50,Healthcare,108
+202,2023-01-05,SMB,Partner,"Asia Pacific",1-50,Finance,107
+203,2023-01-07,SMB,"Direct Sales","Latin America",51-200,Retail,108
+204,2023-01-09,SMB,Website,"North America",1-50,Manufacturing,107
+205,2023-01-11,SMB,Referral,Europe,1-50,Education,108
+206,2023-01-13,SMB,Partner,"Asia Pacific",51-200,Technology,107
+207,2023-01-15,SMB,"Direct Sales","Latin America",1-50,Healthcare,108
+208,2023-01-17,SMB,Website,"North America",1-50,Finance,107
+209,2023-01-19,SMB,Referral,Europe,51-200,Retail,108
+210,2023-01-21,SMB,Partner,"Asia Pacific",1-50,Manufacturing,107
+211,2023-01-23,SMB,"Direct Sales","Latin America",1-50,Education,108
+212,2023-01-25,SMB,Website,"North America",51-200,Technology,107
+213,2023-01-27,SMB,Referral,Europe,1-50,Healthcare,108
+214,2023-01-29,SMB,Partner,"Asia Pacific",1-50,Finance,107
+215,2023-01-31,SMB,"Direct Sales","Latin America",51-200,Retail,108
+216,2023-02-02,SMB,Website,"North America",1-50,Manufacturing,107
+217,2023-02-04,SMB,Referral,Europe,1-50,Education,108
+218,2023-02-06,SMB,Partner,"Asia Pacific",51-200,Technology,107
+219,2023-02-08,SMB,"Direct Sales","Latin America",1-50,Healthcare,108
+220,2023-02-10,SMB,Website,"North America",1-50,Finance,107
+221,2023-02-12,SMB,Referral,Europe,51-200,Retail,108
+222,2023-02-14,SMB,Partner,"Asia Pacific",1-50,Manufacturing,107
+223,2023-02-16,SMB,"Direct Sales","Latin America",1-50,Education,108
+224,2023-02-18,SMB,Website,"North America",51-200,Technology,107
+225,2023-02-20,SMB,Referral,Europe,1-50,Healthcare,108
+226,2023-02-22,SMB,Partner,"Asia Pacific",1-50,Finance,107
+227,2023-02-24,SMB,"Direct Sales","Latin America",51-200,Retail,108
+228,2023-02-26,SMB,Website,"North America",1-50,Manufacturing,107
+229,2023-02-28,SMB,Referral,Europe,1-50,Education,108
+230,2023-03-02,SMB,Partner,"Asia Pacific",51-200,Technology,107
+231,2023-03-04,SMB,"Direct Sales","Latin America",1-50,Healthcare,108
+232,2023-03-06,SMB,Website,"North America",1-50,Finance,107
+233,2023-03-08,SMB,Referral,Europe,51-200,Retail,108
+234,2023-03-10,SMB,Partner,"Asia Pacific",1-50,Manufacturing,107
+235,2023-03-12,SMB,"Direct Sales","Latin America",1-50,Education,108
+236,2023-03-14,SMB,Website,"North America",51-200,Technology,107
+237,2023-03-16,SMB,Referral,Europe,1-50,Healthcare,108
+238,2023-03-18,SMB,Partner,"Asia Pacific",1-50,Finance,107
+239,2023-03-20,SMB,"Direct Sales","Latin America",51-200,Retail,108
+240,2023-03-22,SMB,Website,"North America",1-50,Manufacturing,107
+241,2023-03-24,SMB,Referral,Europe,1-50,Education,108
+242,2023-03-26,SMB,Partner,"Asia Pacific",51-200,Technology,107
+243,2023-03-28,SMB,"Direct Sales","Latin America",1-50,Healthcare,108
+244,2023-03-30,SMB,Website,"North America",1-50,Finance,107
+245,2023-04-01,SMB,Referral,Europe,51-200,Retail,108
+246,2023-04-03,SMB,Partner,"Asia Pacific",1-50,Manufacturing,107
+247,2023-04-05,SMB,"Direct Sales","Latin America",1-50,Education,108
+248,2023-04-07,SMB,Website,"North America",51-200,Technology,107
+249,2023-04-09,SMB,Referral,Europe,1-50,Healthcare,108
+250,2023-04-11,SMB,Partner,"Asia Pacific",1-50,Finance,107
+251,2023-04-13,SMB,"Direct Sales","Latin America",51-200,Retail,108
+252,2023-04-15,SMB,Website,"North America",1-50,Manufacturing,107
+253,2023-04-17,SMB,Referral,Europe,1-50,Education,108
+254,2023-04-19,SMB,Partner,"Asia Pacific",51-200,Technology,107
+255,2023-04-21,SMB,"Direct Sales","Latin America",1-50,Healthcare,108
+256,2023-04-23,SMB,Website,"North America",1-50,Finance,107
+257,2023-04-25,SMB,Referral,Europe,51-200,Retail,108
+258,2023-04-27,SMB,Partner,"Asia Pacific",1-50,Manufacturing,107
+259,2023-04-29,SMB,"Direct Sales","Latin America",1-50,Education,108
+260,2023-05-01,SMB,Website,"North America",51-200,Technology,107
+261,2023-05-03,SMB,Referral,Europe,1-50,Healthcare,108
+262,2023-05-05,SMB,Partner,"Asia Pacific",1-50,Finance,107
+263,2023-05-07,SMB,"Direct Sales","Latin America",51-200,Retail,108
+264,2023-05-09,SMB,Website,"North America",1-50,Manufacturing,107
+265,2023-05-11,SMB,Referral,Europe,1-50,Education,108
+266,2023-05-13,SMB,Partner,"Asia Pacific",51-200,Technology,107
+267,2023-05-15,SMB,"Direct Sales","Latin America",1-50,Healthcare,108
+268,2023-05-17,SMB,Website,"North America",1-50,Finance,107
+269,2023-05-19,SMB,Referral,Europe,51-200,Retail,108
+270,2023-05-21,SMB,Partner,"Asia Pacific",1-50,Manufacturing,107
+271,2023-05-23,SMB,"Direct Sales","Latin America",1-50,Education,108
+272,2023-05-25,SMB,Website,"North America",51-200,Technology,107
+273,2023-05-27,SMB,Referral,Europe,1-50,Healthcare,108
+274,2023-05-29,SMB,Partner,"Asia Pacific",1-50,Finance,107
+275,2023-05-31,SMB,"Direct Sales","Latin America",51-200,Retail,108
+276,2023-06-02,SMB,Website,"North America",1-50,Manufacturing,107
+277,2023-06-04,SMB,Referral,Europe,1-50,Education,108
+278,2023-06-06,SMB,Partner,"Asia Pacific",51-200,Technology,107
+279,2023-06-08,SMB,"Direct Sales","Latin America",1-50,Healthcare,108
+280,2023-06-10,SMB,Website,"North America",1-50,Finance,107
+281,2023-06-12,SMB,Referral,Europe,51-200,Retail,108
+282,2023-06-14,SMB,Partner,"Asia Pacific",1-50,Manufacturing,107
+283,2023-06-16,SMB,"Direct Sales","Latin America",1-50,Education,108
+284,2023-06-18,SMB,Website,"North America",51-200,Technology,107
+285,2023-06-20,SMB,Referral,Europe,1-50,Healthcare,108
+286,2023-06-22,SMB,Partner,"Asia Pacific",1-50,Finance,107
+287,2023-06-24,SMB,"Direct Sales","Latin America",51-200,Retail,108
+288,2023-06-26,SMB,Website,"North America",1-50,Manufacturing,107
+289,2023-06-28,SMB,Referral,Europe,1-50,Education,108
+290,2023-06-30,SMB,Partner,"Asia Pacific",51-200,Technology,107
+291,2023-07-02,SMB,"Direct Sales","Latin America",1-50,Healthcare,108
+292,2023-07-04,SMB,Website,"North America",1-50,Finance,107
+293,2023-07-06,SMB,Referral,Europe,51-200,Retail,108
+294,2023-07-08,SMB,Partner,"Asia Pacific",1-50,Manufacturing,107
+295,2023-07-10,SMB,"Direct Sales","Latin America",1-50,Education,108
+296,2023-07-12,SMB,Website,"North America",51-200,Technology,107
+297,2023-07-14,SMB,Referral,Europe,1-50,Healthcare,108
+298,2023-07-16,SMB,Partner,"Asia Pacific",1-50,Finance,107
+299,2023-07-18,SMB,"Direct Sales","Latin America",51-200,Retail,108
+300,2023-07-20,SMB,Website,"North America",1-50,Manufacturing,107
